@@ -1,15 +1,8 @@
 
-# SomeGoTopics 
+# SomeGoTopics
 
-![](https://e0.pxfuel.com/wallpapers/888/807/desktop-wallpaper-golang-golang-gopher.jpg)
+![](https://wallpapercave.com/wp/wp7041246.png)
 
-
-**Table of Contents**
 
 [TOC]
-
-
-
-
-
 
